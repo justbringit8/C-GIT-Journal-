@@ -1,0 +1,6 @@
+Asset no=101
+Asset name=prasad
+Asset price=900.00
+Asset no=202
+Asset name=duk
+Asset price=6040.00
